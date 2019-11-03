@@ -9,7 +9,10 @@
     "autoload": {
         "psr-4": {
             "CleverProgrammerChallenges\\": "src/"
-        }
+        },
+        "files": [
+            "src/MyArrayFilter.php"
+        ]
     },
     "autoload-dev": {
         "psr-4": {
